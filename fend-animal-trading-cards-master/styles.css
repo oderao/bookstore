@@ -1,0 +1,28 @@
+/* add your CSS here */
+body { font-family:arial,Times New Roman;
+
+}
+
+.first{width:100%;
+	   background:#63E4DE;
+	   border:15px;
+	   background-size: cover;
+	   background-repeat: no-repeat;
+	   background-image: url(https://vetstreet.brightspotcdn.com/dims4/default/57d7e5a/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Ffa%2Ff3%2F2824564a4c8d9b3a619d012dc37a%2Fsiberian-husky-ap-1d3r48-645-x-380.jpg)
+
+}
+img {width:100%;
+       height:auto;
+  }
+
+  .header{text-transform:uppercase;
+  		  font-weight:bold;
+  		  text-decoration:underline;
+		  color:#007731;
+  }
+
+  .paragraph{text-align:center;
+
+  }
+  .color{color:#D925D1;
+  }
